@@ -1,0 +1,495 @@
+"The Fontane Sisters"	{"Perry Como": 1, "Mitchell Ayres & His Orchestra": 1}
+"The Harlem Community Choir"	{"John Lennon": 1, "The Plastic Ono Band": 1, "Yoko Ono": 1}
+"The Kid Laroi"	{"Justin Bieber": 1}
+"The Mar\u00ef\u00bf\u00bd\u00ef"	{"Bad Bunny": 1}
+"The Plastic Ono Band"	{"John Lennon": 1, "The Harlem Community Choir": 1, "Yoko Ono": 1}
+"The Weeknd"	{"Madonna": 1, "Playboi Carti": 1, "21 Savage": 1, "Metro Boomin": 1, "Daft Punk": 1, "Ariana Grande": 2, "Lana Del Rey": 1, "Future": 1, "Gesaffelstein": 2, "Tyler": 1, "The Creator": 1, "Lil Wayne": 1, "Post Malone": 1, "Swedish House Mafia": 1, "Doja Cat": 1, "ROSAL\ufffd": 1}
+"Thezth"	{"Styrx": 1, "utku INC": 1}
+"Ti\ufffd\ufffdsto"	{"Tate M": 1, "Ava": 1, "Kar": 1}
+"Tiago pzk"	{"Big One": 1, "Duki": 1, "Lit Killah": 2, "Maria Becerra": 2, "FMK": 1, "Rusherking": 1, "Emilia": 1, "NICKI NICOLE": 1, "Bizarrap": 1, "Trueno": 1, "Ozuna": 1}
+"Tini"	{"Steve Aoki": 1, "La Joaqui": 1, "L-Gante": 1, "Maria Becerra": 1, "Anitta": 1, "Becky G": 1}
+"Toian"	{"WizKid": 1, "Metro Boomin": 1, "Don Toliver": 1, "Beam": 1}
+"Tony Dize"	{"Bad Bunny": 1}
+"Topher Ngo"	{"Jordan Fisher": 1, "Josh Levi": 1, "Finneas O'Connell": 1, "4*TOWN (From Disney and Pixar\ufffd\ufffd\ufffds Turning Red)": 1, "Grayson Vill": 1}
+"Travis Scott"	{"Young Thug": 1, "Metro Boomin": 3, "21 Savage": 2, "SZA": 1, "Drake": 2}
+"Trueno"	{"Tiago pzk": 1}
+"Twisted"	{"Oliver Tree": 1}
+"Tyga"	{"Doja Cat": 1}
+"Tyler Cole"	{"THE ANXIETY": 1, "Willow": 1}
+"Tyler"	{"The Creator": 5, "Kali Uchis": 1, "The Weeknd": 1, "Pharrell Williams": 1, "21 Savage": 1}
+"Ugly Dray"	{"Tesla Jnr": 1}
+"Varun Jain"	{"Sachin-Jigar": 1, "Shadab Faridi": 1, "Altamash Faridi": 1, "Amitabh Bhattacharya": 1}
+"Veigh"	{"Bvga Beatz": 1, "Supernova Ent": 1, "Prod Malax": 1}
+"Villano Antillano"	{"Bizarrap": 1}
+"Vishal Dadlani"	{"Arijit Singh": 1, "Sukriti Kakar": 1, "Vishal-Shekhar": 1, "Shekhar Ravjiani": 1, "Kumaar": 1, "Shilpa Rao": 1, "Caralisa Monteiro": 1}
+"Vishal-Shekhar"	{"Arijit Singh": 1, "Vishal Dadlani": 1, "Sukriti Kakar": 1, "Shekhar Ravjiani": 1, "Kumaar": 1, "Shilpa Rao": 1, "Caralisa Monteiro": 1}
+"Willow"	{"THE ANXIETY": 1, "Tyler Cole": 1, "Camila Cabello": 1}
+"Wisin & Yandel"	{"ROSAL\ufffd": 1}
+"Wiu"	{"Matu\ufffd\ufffd": 1, "": 1}
+"Wiz Khalifa"	{"Maroon 5": 1}
+"WizKid"	{"Drake": 1, "Kyla": 1, "Toian": 1, "Metro Boomin": 1, "Don Toliver": 1, "Beam": 1}
+"XXXTENTACION"	{"Kanye West": 1}
+"Xam\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd"	{"Gustah": 1, "Neo B": 1}
+"Yahritza Y Su Esencia"	{"Grupo Frontera": 1}
+"Yandel"	{"Feid": 2}
+"Yng Lvcas"	{"Peso Pluma": 1}
+"Yoko Ono"	{"John Lennon": 1, "The Harlem Community Choir": 1, "The Plastic Ono Band": 1}
+"Young Miko"	{"Feid": 1}
+"Young Thug"	{"Travis Scott": 1, "Metro Boomin": 1, "Future": 2, "Gunna": 1, "Drake": 1, "Calvin Harris": 1, "Dua Lipa": 1}
+"Yuridia"	{"Angela Aguilar": 1}
+"Zakaria"	{"GODZZ__-": 1}
+"Zendaya"	{"Labrinth": 1}
+"dennis"	{"MC Kevin o Chris": 1}
+"j-hope"	{"J. Cole": 1}
+"mc jhenny"	{"Dj LK da Esc\ufffd\ufffdcia": 1, "Tchakabum": 1, "M": 1}
+"sped up nightcore"	{"ARIZONATEARS": 1, "Lil Uzi Vert": 1}
+"unxbected"	{"Ayparia": 1}
+"utku INC"	{"Styrx": 1, "Thezth": 1}
+"zzoilo"	{"Aitana": 1}
+"Miggy Dela Rosa"	{"James Hype": 1}
+"Migrantes"	{"LiL CaKe": 1, "Nico Valdi": 1}
+"Milo j"	{"Taiu": 1}
+"Mitchell Ayres & His Orchestra"	{"Perry Como": 1, "The Fontane Sisters": 1}
+"Moliy"	{"Kali Uchis": 1, "Amaarae": 1}
+"Mora"	{"Feid": 2, "Saiko": 1, "Quevedo": 1, "Sech": 2, "Bad Bunny": 1}
+"Morgan Wallen"	{"Lil Durk": 1, "Eric Church": 1}
+"Mufasa & Hypeman"	{"Riton": 1, "Nightcrawlers": 1, "Dopamine": 1}
+"Muni Long"	{"Kodak Black": 1, "NLE Choppa": 1, "JVKE": 1, "Jimin": 1}
+"Myke Towers"	{"Feid": 1, "Sky Rompiendo": 1, "Quevedo": 1, "Anuel Aa": 1, "Jhay Cortez": 1}
+"NAV"	{"Swae Lee": 1, "A Boogie Wit da Hoodie": 1, "Metro Boomin": 1}
+"NEIKED"	{"Mae Muller": 1, "Polo G": 1}
+"NICKI NICOLE"	{"Duki": 1, "Cris Mj": 1, "Standly": 1, "Stars Music Chile": 1, "Lit Killah": 1, "Maria Becerra": 1, "Tiago pzk": 1}
+"NLE Choppa"	{"Kodak Black": 1, "Muni Long": 1, "JVKE": 1, "Jimin": 1}
+"Natanael Cano"	{"Peso Pluma": 1, "Gabito Ballesteros": 1, "Fuerza Regida": 1}
+"Nate Dogg"	{"Eminem": 1}
+"Nengo Flow"	{"Bad Bunny": 1, "Anuel Aa": 1, "Chris Jedi": 1, "Chencho Corleone": 1}
+"Neo B"	{"Xam\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd": 1, "Gustah": 1}
+"Nicki Minaj"	{"Aqua": 1, "Ice Spice": 2, "Lil Baby": 1}
+"Nickoog Clk"	{"Fran C": 1, "Polima WestCoast": 1, "Pablito Pesadilla": 1}
+"Nicky Jam"	{"Feid": 1}
+"Nicky Youre"	{"Dazy": 1}
+"Nico Valdi"	{"Migrantes": 1, "LiL CaKe": 1}
+"Nightcrawlers"	{"Riton": 1, "Mufasa & Hypeman": 1, "Dopamine": 1}
+"Nile Rodgers"	{"LE SSERAFIM": 1, "Pharrell Williams": 1, "Daft Punk": 1}
+"Nio Garcia"	{"J Balvin": 1, "Bad Bunny": 1}
+"Offset"	{"Swae Lee": 1, "Lil Wayne": 1, "Metro Boomin": 1, "JID": 1}
+"Olga Merediz"	{"Stephanie Beatriz": 1, "Encanto - Cast": 1}
+"Oliver Tree"	{"Robin Schulz": 1, "Twisted": 1}
+"Os Gemeos da Putaria"	{"MC Xenon": 1}
+"Oscar Maydon"	{"Junior H": 1}
+"Ovy On The Drums"	{"Karol G": 1, "Quevedo": 1}
+"Ozuna"	{"Feid": 1, "Shakira": 1, "Tiago pzk": 1}
+"PR1ISVX"	{"Kanii": 1}
+"PSY"	{"Suga": 1}
+"Pablito Pesadilla"	{"Fran C": 1, "Polima WestCoast": 1, "Nickoog Clk": 1}
+"Pailita"	{"Ak4:20": 1, "Cris Mj": 1, "Polima WestCoast": 2, "De La Ghetto": 1, "Feid": 1, "Paloma Mami": 1}
+"Paloma Mami"	{"De La Ghetto": 1, "Feid": 1, "Polima WestCoast": 1, "Pailita": 1}
+"Paulo Londra"	{"Bizarrap": 1, "Feid": 1}
+"Pedro Sampaio"	{"Mc Pedrinho": 1}
+"Perry Como"	{"The Fontane Sisters": 1, "Mitchell Ayres & His Orchestra": 1}
+"Peso P"	{"Jasiel Nu\ufffd\ufffdez": 2}
+"Peso Pluma"	{"Eslabon Armado": 1, "Yng Lvcas": 1, "Gabito Ballesteros": 2, "Junior H": 2, "Bizarrap": 1, "Grupo Frontera": 1, "Sog": 1, "Ryan Castro": 1, "Natanael Cano": 1, "Becky G": 1, "BLESSD": 1, "Fuerza Regida": 1, "Luis R Conriquez": 1}
+"Pharrell Williams"	{"Nile Rodgers": 1, "Daft Punk": 1, "Tyler": 1, "The Creator": 1, "21 Savage": 1, "Calvin Harris": 1, "Halsey": 1, "Justin Timberlake": 1}
+"Phoebe Bridgers"	{"SZA": 1}
+"PinkPantheress"	{"Ice Spice": 1}
+"Playboi Carti"	{"The Weeknd": 1, "Madonna": 1}
+"Pnau"	{"Dua Lipa": 1, "Elton John": 1}
+"Polima WestCoast"	{"Pailita": 2, "De La Ghetto": 1, "Feid": 1, "Paloma Mami": 1, "Fran C": 1, "Nickoog Clk": 1, "Pablito Pesadilla": 1}
+"Polo G"	{"NEIKED": 1, "Mae Muller": 1}
+"Post Malone"	{"Swae Lee": 1, "Doja Cat": 1, "The Weeknd": 1, "Roddy Ricch": 1}
+"Prezioso"	{"Gabry Ponte": 1, "LUM!X": 1}
+"Pritam"	{"Arijit Singh": 1, "Amitabh Bhattacharya": 1}
+"Prod Malax"	{"Veigh": 1, "Bvga Beatz": 1, "Supernova Ent": 1}
+"Project Pat"	{"Drake": 1, "21 Savage": 1}
+"Quevedo"	{"Bizarrap": 1, "Feid": 1, "Mora": 1, "Saiko": 1, "Jhayco": 1, "Myke Towers": 1, "Karol G": 1, "La Pantera": 1, "Juseph": 1, "Cruz Cafun\ufffd\ufffd": 1, "B\ufffd\ufffdjo": 1, "Abhir Hathi": 1, "De La Ghetto": 1, "Duki": 1, "Ovy On The Drums": 1}
+"RAYE"	{"070 Shake": 2}
+"RM"	{"Colde": 1}
+"ROSAL\ufffd"	{"Rauw Alejandro": 1, "Wisin & Yandel": 1, "The Weeknd": 1}
+"R\ufffd\ufffdma"	{"Selena G": 1}
+"Rauw Alejandro"	{"ROSAL\ufffd": 1, "Bizarrap": 2, "Brray": 1, "Lyanno": 1, "Shakira": 1, "Baby Rasta": 1, "Chencho Corleone": 1, "Bad Bunny": 1, "Chris Brown": 1, "Rvssian": 1, "Alvaro Diaz": 1}
+"Becky Hill"	{"David Guetta": 1, "Ella Henderson": 1}
+"Benny Blanco"	{"Snoop Dogg": 1, "BTS": 1}
+"Beth Gibbons"	{"Kendrick Lamar": 1}
+"Beyonc\u00ef\u00bf"	{"Kendrick Lamar": 1}
+"Bianca"	{"L7nnon": 1, "DJ Biel do Furduncinho": 1}
+"Big One"	{"Duki": 1, "Lit Killah": 1, "Maria Becerra": 1, "FMK": 2, "Rusherking": 1, "Emilia": 1, "Tiago pzk": 1, "Ke personajes": 1}
+"Billie Eilish"	{"Khalid": 1}
+"Bing Crosby"	{"John Scott Trotter & His Orchestra": 1, "Ken Darby Singers": 1}
+"Bizarrap"	{"Peso Pluma": 1, "Rauw Alejandro": 2, "Quevedo": 1, "Shakira": 1, "Arcangel": 1, "Tiago pzk": 1, "Residente": 1, "Paulo Londra": 1, "Villano Antillano": 1}
+"Black Eyed Peas"	{"David Guetta": 1, "Shakira": 1}
+"Blackbear"	{"BoyWithUke": 1}
+"Blake Shelton"	{"Gwen Stefani": 1}
+"Blanco"	{"Mahmood": 1}
+"Blxst"	{"Kendrick Lamar": 1, "Amanda Reifer": 1}
+"Bomba Est\ufffd\ufffdreo"	{"Bad B": 1}
+"BoyWithUke"	{"Blackbear": 1}
+"Bradley Cooper"	{"Lady Gaga": 1}
+"Britney Spears"	{"Elton John": 1}
+"Brray"	{"Rauw Alejandro": 1, "Lyanno": 1}
+"Bruno Mars"	{"Anderson .Paak": 1, "Silk Sonic": 1}
+"Buscabulla"	{"Bad Bunny": 1}
+"Bvga Beatz"	{"Veigh": 1, "Supernova Ent": 1, "Prod Malax": 1}
+"Calum Scott"	{"Lost Frequencies": 1}
+"Calvin Harris"	{"Ellie Goulding": 1, "Rihanna": 1, "Sam Smith": 1, "Jessie Reyez": 1, "Dua Lipa": 2, "Young Thug": 1, "Halsey": 1, "Pharrell Williams": 1, "Justin Timberlake": 1}
+"Camila Cabello"	{"Shawn Mendes": 1, "Ed Sheeran": 1, "Willow": 1}
+"Caralisa Monteiro"	{"Vishal-Shekhar": 1, "Shilpa Rao": 1, "Kumaar": 1, "Vishal Dadlani": 1, "Shekhar Ravjiani": 1}
+"Cardi B"	{"Kanye West": 1, "Lil Durk": 1}
+"Carin Leon"	{"Grupo Frontera": 1}
+"Carolina Gaitan"	{"Adassa": 1, "Mauro Castillo": 1, "Stephanie Beatriz": 1, "Encanto - Cast": 1, "Rhenzy Feliz": 1, "Diane Guerrero": 1}
+"Cartel De Santa"	{"La Kelly": 1}
+"Central Cee"	{"Dave": 1}
+"Charli XCX"	{"Jax Jones": 1, "Joel Corry": 1, "Saweetie": 1}
+"Charlie Puth"	{"BTS": 1, "Jung Kook": 1}
+"Chefin"	{"Mainstreet": 1}
+"Chencho Corleone"	{"Bad Bunny": 1, "Rauw Alejandro": 1, "Nengo Flow": 1, "Anuel Aa": 1, "Chris Jedi": 1}
+"Cherish"	{"ACRAZE": 1}
+"Chino Pacas"	{"Fuerza Regida": 1}
+"Chris Brown"	{"Future": 1, "Metro Boomin": 1, "Rvssian": 1, "Rauw Alejandro": 1}
+"Chris Jedi"	{"Nengo Flow": 1, "Anuel Aa": 1, "Chencho Corleone": 1}
+"Ckay"	{"AX'EL": 1, "Dj Yo!": 1}
+"Coi Leray"	{"David Guetta": 1, "Anne-Marie": 1, "Metro Boomin": 1}
+"Colde"	{"RM": 1}
+"Coldplay"	{"BTS": 1, "The Chainsmokers": 1}
+"Colin Hay"	{"Luude": 1}
+"Coolio"	{"L.V.": 1}
+"Cris Mj"	{"Duki": 1, "NICKI NICOLE": 1, "Standly": 1, "Stars Music Chile": 1, "Ak4:20": 1, "Pailita": 1}
+"Cruz Cafun\ufffd\ufffd"	{"Quevedo": 1, "La Pantera": 1, "Juseph": 1, "B\ufffd\ufffdjo": 1, "Abhir Hathi": 1}
+"DJ 900"	{"Mc Pedrinho": 1}
+"DJ Biel do Furduncinho"	{"L7nnon": 1, "Bianca": 1}
+"DJ Escobar"	{"MC MENOR SG": 1, "MC MENOR HR": 1}
+"DJ Khaled"	{"Drake": 1, "Lil Baby": 1}
+"DJ Luian"	{"Mambo Kingz": 1, "Anuel Aa": 1}
+"DJ Matt D"	{"Mc Livinho": 1}
+"DJ R"	{"Sch\ufffd\ufffdrze": 1}
+"DJ Win"	{"Mc Vitin Da Igrejinha": 1, "MC Tairon": 1}
+"DaBaby"	{"Dua Lipa": 1}
+"Daddy Yankee"	{"Bad Bunny": 2}
+"Daft Punk"	{"The Weeknd": 1, "Pharrell Williams": 1, "Nile Rodgers": 1}
+"Dalex"	{"Arcangel": 1, "De La Ghetto": 1, "Justin Quiles": 1, "Lenny Tav\ufffd\ufffdrez": 1, "Sech": 1, "Dimelo Flow": 1, "Rich Music": 1}
+"Daniel Caesar"	{"Justin Bieber": 1, "Giveon": 1}
+"Dave"	{"Central Cee": 1}
+"Davi K"	{"Lu\ufffd\ufffdsa Sonza": 1, "MC Frog": 1, "Dj Gabriel do Borel": 1}
+"David Guetta"	{"Bebe Rexha": 1, "Anne-Marie": 1, "Coi Leray": 1, "Ella Henderson": 1, "Becky Hill": 1, "Shakira": 1, "Black Eyed Peas": 1}
+"Dazy"	{"Nicky Youre": 1}
+"De La Ghetto"	{"Arcangel": 1, "Justin Quiles": 1, "Lenny Tav\ufffd\ufffdrez": 1, "Sech": 1, "Dalex": 1, "Dimelo Flow": 1, "Rich Music": 1, "Duki": 1, "Quevedo": 1, "Feid": 1, "Polima WestCoast": 1, "Paloma Mami": 1, "Pailita": 1}
+"Diane Guerrero"	{"Adassa": 1, "Mauro Castillo": 1, "Stephanie Beatriz": 1, "Encanto - Cast": 1, "Rhenzy Feliz": 1, "Carolina Gaitan": 1}
+"Dido"	{"Eminem": 1}
+"Dimelo Flow"	{"Arcangel": 1, "De La Ghetto": 1, "Justin Quiles": 1, "Lenny Tav\ufffd\ufffdrez": 1, "Sech": 1, "Dalex": 1, "Rich Music": 1}
+"Dina Rae"	{"Eminem": 1}
+"Dj Chris No Beat"	{"Melody": 1, "Ana Castela": 1}
+"Dj Gabriel do Borel"	{"Lu\ufffd\ufffdsa Sonza": 1, "MC Frog": 1, "Davi K": 1}
+"Dj LK da Esc\ufffd\ufffdcia"	{"Tchakabum": 1, "mc jhenny": 1, "M": 1}
+"Dj Yo!"	{"Ckay": 1, "AX'EL": 1}
+"Do\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdu"	{"Semicenk": 1}
+"Doja Cat"	{"Post Malone": 1, "SZA": 1, "The Weeknd": 1, "Tyga": 1}
+"Don Omar"	{"Lucenzo": 1}
+"Don Toliver"	{"Future": 2, "Metro Boomin": 2, "WizKid": 1, "Toian": 1, "Beam": 1, "Justin Bieber": 2, "SZA": 1}
+"Dopamine"	{"Riton": 1, "Nightcrawlers": 1, "Mufasa & Hypeman": 1}
+"Dr. Dre"	{"Snoop Dogg": 1, "2Pac": 1, "Roger": 1, "Eminem": 1}
+"Drake"	{"21 Savage": 4, "WizKid": 1, "Kyla": 1, "Future": 2, "Tems": 1, "Project Pat": 1, "Young Thug": 1, "Travis Scott": 2, "DJ Khaled": 1, "Lil Baby": 1}
+"Dua Lipa"	{"Elton John": 1, "Pnau": 1, "Calvin Harris": 2, "DaBaby": 1, "Sean Paul": 1, "Megan Thee Stallion": 1, "Young Thug": 1}
+"Duki"	{"Big One": 1, "Lit Killah": 1, "Maria Becerra": 1, "FMK": 1, "Rusherking": 1, "Emilia": 1, "Tiago pzk": 1, "NICKI NICOLE": 1, "Cris Mj": 1, "Standly": 1, "Stars Music Chile": 1, "De La Ghetto": 1, "Quevedo": 1}
+"Ed Sheeran"	{"Elton John": 1, "Fireboy DML": 1, "Taylor Swift": 1, "Camila Cabello": 1, "J Balvin": 1}
+"Eden Mu\u00ef\u00bf\u00bd\u00ef"	{"Junior H": 1}
+"El Chachito"	{"Junior H": 1}
+"Eladio Carrion"	{"Bad Bunny": 1}
+"Eliza Rose"	{"Interplanetary Criminal": 1}
+"Ella Henderson"	{"David Guetta": 1, "Becky Hill": 1}
+"Ellie Goulding"	{"Calvin Harris": 1}
+"Elton John"	{"Dua Lipa": 1, "Pnau": 1, "Ed Sheeran": 1, "Britney Spears": 1}
+"Em Beihold"	{"Stephen Sanchez": 1}
+"Emilia"	{"Big One": 1, "Duki": 1, "Lit Killah": 1, "Maria Becerra": 1, "FMK": 1, "Rusherking": 1, "Tiago pzk": 1}
+"Eminem"	{"Dina Rae": 1, "Nate Dogg": 1, "Dr. Dre": 1, "Dido": 1}
+"Encanto - Cast"	{"Adassa": 1, "Mauro Castillo": 1, "Stephanie Beatriz": 1, "Rhenzy Feliz": 1, "Diane Guerrero": 1, "Carolina Gaitan": 1, "Olga Merediz": 1}
+"Eric Church"	{"Morgan Wallen": 1}
+"Eslabon Armado"	{"Peso Pluma": 1}
+"FIFA Sound"	{"BTS": 1, "Jung Kook": 1}
+"FMK"	{"Big One": 2, "Duki": 1, "Lit Killah": 1, "Maria Becerra": 1, "Rusherking": 1, "Emilia": 1, "Tiago pzk": 1, "Ke personajes": 1}
+"Feid"	{"Young Miko": 1, "Myke Towers": 1, "Sky Rompiendo": 1, "Ozuna": 1, "Yandel": 2, "Mora": 2, "Saiko": 1, "Quevedo": 1, "Nicky Jam": 1, "Sean Paul": 1, "Alejo": 1, "Robi": 1, "De La Ghetto": 1, "Polima WestCoast": 1, "Paloma Mami": 1, "Pailita": 1, "Paulo Londra": 1, "Sech": 1, "Jhayco": 1}
+"Finneas O'Connell"	{"Jordan Fisher": 1, "Josh Levi": 1, "4*TOWN (From Disney and Pixar\ufffd\ufffd\ufffds Turning Red)": 1, "Topher Ngo": 1, "Grayson Vill": 1}
+"Fireboy DML"	{"Ed Sheeran": 1}
+"Fivio Foreign"	{"Kanye West": 1, "Alicia Keys": 1}
+"Flowdan"	{"Skrillex": 1, "Fred again..": 1}
+"Foudeqush"	{"Ludwig Goransson": 1}
+"Fran C"	{"Polima WestCoast": 1, "Nickoog Clk": 1, "Pablito Pesadilla": 1}
+"Frank Sinatra"	{"B. Swanson Quartet": 1}
+"Fred again.."	{"Skrillex": 1, "Flowdan": 1}
+"Fuerza Regida"	{"Grupo Frontera": 1, "Natanael Cano": 1, "Peso Pluma": 1, "Chino Pacas": 1}
+"Future"	{"Metro Boomin": 2, "Don Toliver": 2, "Lil Uzi Vert": 1, "Chris Brown": 1, "The Weeknd": 1, "Justin Bieber": 1, "Drake": 2, "Tems": 1, "Young Thug": 2, "Gunna": 1}
+"GODZZ__-"	{"Zakaria": 1}
+"Gabito Ballesteros"	{"Junior H": 1, "Peso Pluma": 2, "Natanael Cano": 1}
+"Gabry Ponte"	{"Prezioso": 1, "LUM!X": 1}
+"George Henrique &"	{"Mar\ufffd\ufffdlia Mendon\ufffd\ufffda": 1}
+"Gesaffelstein"	{"The Weeknd": 2}
+"Ghostface Killah"	{"Kendrick Lamar": 1, "Summer Walker": 1}
+"Giant Rooks"	{"AnnenMayKantereit": 1}
+"Giveon"	{"Justin Bieber": 1, "Daniel Caesar": 1}
+"Gorillaz"	{"Bad Bunny": 1}
+"Gotye"	{"Kimbra": 1}
+"Grayson Vill"	{"Jordan Fisher": 1, "Josh Levi": 1, "Finneas O'Connell": 1, "4*TOWN (From Disney and Pixar\ufffd\ufffd\ufffds Turning Red)": 1, "Topher Ngo": 1}
+"Grupo Frontera"	{"Bad Bunny": 1, "Peso Pluma": 1, "Yahritza Y Su Esencia": 1, "Carin Leon": 1, "Fuerza Regida": 1, "Grupo Marca Registrada": 1}
+"Grupo Marca Registrada"	{"Grupo Frontera": 1, "Junior H": 1}
+"Gunna"	{"Young Thug": 1, "Future": 1, "21 Savage": 1, "Lil Baby": 1}
+"Gurinder Gill"	{"Intense": 1, "AP Dhillon": 1}
+"Gustah"	{"Xam\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd": 1, "Neo B": 1}
+"Gustavo Mioto"	{"Mari Fernandez": 1}
+"Gwen Stefani"	{"Blake Shelton": 1}
+"HA SUNG WOON"	{"Jimin": 1}
+"Hallie Coggins"	{"Rosa Walton": 1}
+"Halsey"	{"Suga": 1, "BTS": 1, "The Chainsmokers": 1, "Calvin Harris": 1, "Pharrell Williams": 1, "Justin Timberlake": 1}
+"Hugo & G"	{"Mar\ufffd\ufffdlia Mendon\ufffd\ufffda": 1}
+"Huilen Toledo"	{"Juan Cruz Toledo": 1}
+"IU"	{"Agust D": 1}
+"Iann Dior"	{"24kgoldn": 1}
+"Ice Spice"	{"Nicki Minaj": 2, "Aqua": 1, "PinkPantheress": 1, "Taylor Swift": 1}
+"Imagine Dragons"	{"League of Legends": 2, "JID": 1, "Arcane": 2}
+"Imanbek"	{"BYOR": 1}
+"Intense"	{"AP Dhillon": 1, "Gurinder Gill": 1}
+"Interplanetary Criminal"	{"Eliza Rose": 1}
+"Israel & Rodolffo"	{"Mari Fernandez": 1, "Ana Castela": 1}
+"J Balvin"	{"Bad Bunny": 2, "Maria Becerra": 1, "Nio Garcia": 1, "Ed Sheeran": 1}
+"J. Cole"	{"Lil Durk": 1, "j-hope": 1}
+"JID"	{"Offset": 1, "Imagine Dragons": 1, "League of Legends": 1, "Arcane": 1}
+"JVKE"	{"Kodak Black": 1, "NLE Choppa": 1, "Muni Long": 1, "Jimin": 1}
+"Jack Harlow"	{"Lil Nas X": 1}
+"James Blake"	{"Metro Boomin": 1}
+"James Hype"	{"Miggy Dela Rosa": 1}
+"Jasiel Nu\ufffd\ufffdez"	{"Peso P": 2}
+"Jax Jones"	{"Charli XCX": 1, "Joel Corry": 1, "Saweetie": 1, "MNEK": 1}
+"Jay Rock"	{"Kendrick Lamar": 1}
+"Jessie Reyez"	{"Sam Smith": 1, "Calvin Harris": 1}
+"Jhay Cortez"	{"Bad Bunny": 1, "Anuel Aa": 1, "Myke Towers": 1}
+"Jhayco"	{"Quevedo": 1, "Feid": 1, "Sech": 1}
+"Jimin"	{"Kodak Black": 1, "NLE Choppa": 1, "Muni Long": 1, "JVKE": 1, "TAEYANG": 1, "HA SUNG WOON": 1}
+"Joel Corry"	{"Charli XCX": 1, "Jax Jones": 1, "Saweetie": 1}
+"John Legend"	{"Metro Boomin": 1}
+"John Lennon"	{"The Harlem Community Choir": 1, "The Plastic Ono Band": 1, "Yoko Ono": 1}
+"John Scott Trotter & His Orchestra"	{"Bing Crosby": 1, "Ken Darby Singers": 1}
+"Jonas Brothers"	{"Marshmello": 1}
+"Jordan Fisher"	{"Josh Levi": 1, "Finneas O'Connell": 1, "4*TOWN (From Disney and Pixar\ufffd\ufffd\ufffds Turning Red)": 1, "Topher Ngo": 1, "Grayson Vill": 1}
+"Josh Levi"	{"Jordan Fisher": 1, "Finneas O'Connell": 1, "4*TOWN (From Disney and Pixar\ufffd\ufffd\ufffds Turning Red)": 1, "Topher Ngo": 1, "Grayson Vill": 1}
+"Juan Cruz Toledo"	{"Huilen Toledo": 1}
+"Juice WRLD"	{"Marshmello": 1}
+"Juicy J"	{"Kevin Gates": 1}
+"Julieta Venegas"	{"Bad Bunny": 1, "Tainy": 1}
+"Jung Kook"	{"Latto": 1, "Charlie Puth": 1, "BTS": 2, "FIFA Sound": 1}
+"Junior H"	{"Gabito Ballesteros": 1, "Peso Pluma": 2, "Oscar Maydon": 1, "Eden Mu\u00ef\u00bf\u00bd\u00ef": 1, "El Chachito": 1, "Grupo Marca Registrada": 1}
+"Juseph"	{"Quevedo": 1, "La Pantera": 1, "Cruz Cafun\ufffd\ufffd": 1, "B\ufffd\ufffdjo": 1, "Abhir Hathi": 1}
+"Justin Bieber"	{"The Kid Laroi": 1, "Don Toliver": 2, "Future": 1, "Daniel Caesar": 1, "Giveon": 1}
+"Justin Quiles"	{"Lenny Tav\ufffd\ufffdrez": 2, "BL": 1, "Arcangel": 1, "De La Ghetto": 1, "Sech": 1, "Dalex": 1, "Dimelo Flow": 1, "Rich Music": 1}
+"Justin Timberlake"	{"Calvin Harris": 1, "Halsey": 1, "Pharrell Williams": 1}
+"Kali Uchis"	{"Tyler": 1, "The Creator": 1, "Amaarae": 1, "Moliy": 1}
+"Kanii"	{"PR1ISVX": 1}
+"Kanye West"	{"Alicia Keys": 1, "Fivio Foreign": 1, "XXXTENTACION": 1, "Lil Durk": 1, "Cardi B": 1}
+"Kar"	{"Ti\ufffd\ufffdsto": 1}
+"Karol G"	{"Shakira": 1, "Romeo Santos": 1, "Ovy On The Drums": 1, "Quevedo": 1, "Maldy": 1, "Becky G": 1}
+"Katy Perry"	{"Alesso": 1}
+"KayBlack"	{"MC Caverinha": 1}
+"Ke personajes"	{"Big One": 1, "FMK": 1}
+"Ken Darby Singers"	{"Bing Crosby": 1, "John Scott Trotter & His Orchestra": 1}
+"Kendrick Lamar"	{"Jay Rock": 1, "Beyonc\u00ef\u00bf": 1, "Baby Keem": 2, "Blxst": 1, "Amanda Reifer": 1, "Sampha": 1, "Kodak Black": 1, "Taylour Paige": 1, "Sam Dew": 1, "Ghostface Killah": 1, "Summer Walker": 1, "Tanna Leone": 1, "Beth Gibbons": 1}
+"Ray Dalton"	{"Ryan Lewis": 1, "Macklemore": 1}
+"Residente"	{"Bizarrap": 1}
+"Rhenzy Feliz"	{"Adassa": 1, "Mauro Castillo": 1, "Stephanie Beatriz": 1, "Encanto - Cast": 1, "Diane Guerrero": 1, "Carolina Gaitan": 1}
+"Riar Saab"	{"Abhijay Sharma": 1}
+"Rich Music"	{"Arcangel": 1, "De La Ghetto": 1, "Justin Quiles": 1, "Lenny Tav\ufffd\ufffdrez": 1, "Sech": 1, "Dalex": 1, "Dimelo Flow": 1}
+"Rich The Kid"	{"Matu\u00ef\u00bf": 1}
+"Rihanna"	{"Calvin Harris": 1}
+"Riton"	{"Nightcrawlers": 1, "Mufasa & Hypeman": 1, "Dopamine": 1}
+"Robi"	{"Feid": 1, "Alejo": 1}
+"Robin Schulz"	{"Oliver Tree": 1}
+"Roddy Ricch"	{"Post Malone": 1}
+"Roger"	{"Dr. Dre": 1, "2Pac": 1}
+"Roisee"	{"A$AP Rocky": 1, "Metro Boomin": 1}
+"Romeo Santos"	{"Karol G": 1}
+"Rosa Walton"	{"Hallie Coggins": 1}
+"Rusherking"	{"Big One": 1, "Duki": 1, "Lit Killah": 1, "Maria Becerra": 1, "FMK": 1, "Emilia": 1, "Tiago pzk": 1}
+"Rvssian"	{"Chris Brown": 1, "Rauw Alejandro": 1}
+"Ryan Castro"	{"Sog": 1, "Peso Pluma": 1}
+"Ryan Lewis"	{"Ray Dalton": 1, "Macklemore": 1}
+"SZA"	{"Don Toliver": 1, "Phoebe Bridgers": 1, "Travis Scott": 1, "Doja Cat": 1}
+"Sachin-Jigar"	{"Shadab Faridi": 1, "Altamash Faridi": 1, "Amitabh Bhattacharya": 1, "Varun Jain": 1, "Arijit Singh": 2, "Amitabha Bhattacharya": 1}
+"Saiko"	{"Feid": 1, "Mora": 1, "Quevedo": 1}
+"Sam Dew"	{"Kendrick Lamar": 1, "Baby Keem": 1}
+"Sam Smith"	{"Kim Petras": 1, "Calvin Harris": 1, "Jessie Reyez": 1}
+"Sampha"	{"Kendrick Lamar": 1}
+"Saweetie"	{"Charli XCX": 1, "Jax Jones": 1, "Joel Corry": 1}
+"Sch\ufffd\ufffdrze"	{"DJ R": 1}
+"Sean Paul"	{"Feid": 1, "Dua Lipa": 1}
+"Sebastian Yatra"	{"Manuel Turizo": 1, "Be\u00ef\u00bf\u00bd\u00ef": 1}
+"Sech"	{"Bad Bunny": 1, "Mora": 2, "Arcangel": 1, "De La Ghetto": 1, "Justin Quiles": 1, "Lenny Tav\ufffd\ufffdrez": 1, "Dalex": 1, "Dimelo Flow": 1, "Rich Music": 1, "Feid": 1, "Jhayco": 1}
+"Selena G"	{"R\ufffd\ufffdma": 1}
+"Semicenk"	{"Do\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdu": 1}
+"Shadab Faridi"	{"Sachin-Jigar": 1, "Altamash Faridi": 1, "Amitabh Bhattacharya": 1, "Varun Jain": 1}
+"Shae Gill"	{"Ali Sethi": 1}
+"Shakira"	{"Karol G": 1, "Bizarrap": 1, "Ozuna": 1, "Rauw Alejandro": 1, "David Guetta": 1, "Black Eyed Peas": 1}
+"Shawn Mendes"	{"Camila Cabello": 1}
+"Shekhar Ravjiani"	{"Arijit Singh": 1, "Vishal Dadlani": 1, "Sukriti Kakar": 1, "Vishal-Shekhar": 1, "Kumaar": 1, "Shilpa Rao": 1, "Caralisa Monteiro": 1}
+"Shilpa Rao"	{"Vishal-Shekhar": 1, "Caralisa Monteiro": 1, "Kumaar": 1, "Vishal Dadlani": 1, "Shekhar Ravjiani": 1}
+"Silk Sonic"	{"Bruno Mars": 1, "Anderson .Paak": 1}
+"Skrillex"	{"Flowdan": 1, "Fred again..": 1}
+"Sky Rompiendo"	{"Feid": 1, "Myke Towers": 1}
+"Sleepy hallow"	{"347aidan": 1}
+"Snoop Dogg"	{"Dr. Dre": 1, "BTS": 1, "Benny Blanco": 1}
+"Sog"	{"Ryan Castro": 1, "Peso Pluma": 1}
+"Standly"	{"Duki": 1, "NICKI NICOLE": 1, "Cris Mj": 1, "Stars Music Chile": 1}
+"Stars Music Chile"	{"Duki": 1, "NICKI NICOLE": 1, "Cris Mj": 1, "Standly": 1}
+"Stephanie Beatriz"	{"Adassa": 1, "Mauro Castillo": 1, "Encanto - Cast": 1, "Rhenzy Feliz": 1, "Diane Guerrero": 1, "Carolina Gaitan": 1, "Olga Merediz": 1}
+"Stephen Sanchez"	{"Em Beihold": 1}
+"Steve Aoki"	{"Tini": 1, "La Joaqui": 1}
+"Styrx"	{"utku INC": 1, "Thezth": 1}
+"Suga"	{"Halsey": 1, "PSY": 1}
+"Sukriti Kakar"	{"Arijit Singh": 1, "Vishal Dadlani": 1, "Vishal-Shekhar": 1, "Shekhar Ravjiani": 1, "Kumaar": 1}
+"Summer Walker"	{"Kendrick Lamar": 1, "Ghostface Killah": 1}
+"Supernova Ent"	{"Veigh": 1, "Bvga Beatz": 1, "Prod Malax": 1}
+"Swae Lee"	{"Post Malone": 1, "A Boogie Wit da Hoodie": 1, "Metro Boomin": 1, "NAV": 1, "Lil Wayne": 1, "Offset": 1}
+"Swedish House Mafia"	{"The Weeknd": 1}
+"TAEYANG"	{"Lisa": 1, "Jimin": 1}
+"THE ANXIETY"	{"Willow": 1, "Tyler Cole": 1}
+"Tainy"	{"Bad Bunny": 3, "Julieta Venegas": 1}
+"Taiu"	{"Milo j": 1}
+"Tanna Leone"	{"Kendrick Lamar": 1}
+"Tate M"	{"Ti\ufffd\ufffdsto": 1}
+"Taylor Swift"	{"Ice Spice": 1, "Lana Del Rey": 2, "Ed Sheeran": 1}
+"Taylour Paige"	{"Kendrick Lamar": 1}
+"Tchakabum"	{"Dj LK da Esc\ufffd\ufffdcia": 1, "mc jhenny": 1, "M": 1}
+"Tems"	{"Drake": 1, "Future": 1}
+"Tesla Jnr"	{"Ugly Dray": 1}
+"The Chainsmokers"	{"Coldplay": 1, "Halsey": 1}
+"The Creator"	{"Tyler": 5, "Kali Uchis": 1, "The Weeknd": 1, "Pharrell Williams": 1, "21 Savage": 1}
+"Kevin Gates"	{"Juicy J": 1}
+"Khalid"	{"Billie Eilish": 1, "Marshmello": 1}
+"Kim Petras"	{"Sam Smith": 1}
+"Kimbra"	{"Gotye": 1}
+"Kodak Black"	{"NLE Choppa": 1, "Muni Long": 1, "JVKE": 1, "Jimin": 1, "Kendrick Lamar": 1}
+"Kumaar"	{"Arijit Singh": 1, "Vishal Dadlani": 1, "Sukriti Kakar": 1, "Vishal-Shekhar": 1, "Shekhar Ravjiani": 1, "Shilpa Rao": 1, "Caralisa Monteiro": 1}
+"Kyla"	{"Drake": 1, "WizKid": 1}
+"L-Gante"	{"Tini": 1}
+"L.V."	{"Coolio": 1}
+"L7nnon"	{"DJ Biel do Furduncinho": 1, "Bianca": 1}
+"LE SSERAFIM"	{"Nile Rodgers": 1}
+"LUM!X"	{"Prezioso": 1, "Gabry Ponte": 1}
+"La Adictiva"	{"Luis R Conriquez": 1}
+"La Joaqui"	{"Steve Aoki": 1, "Tini": 1}
+"La Kelly"	{"Cartel De Santa": 1}
+"La Pantera"	{"Quevedo": 1, "Juseph": 1, "Cruz Cafun\ufffd\ufffd": 1, "B\ufffd\ufffdjo": 1, "Abhir Hathi": 1}
+"Labrinth"	{"Zendaya": 1}
+"Lady Gaga"	{"Bradley Cooper": 1}
+"Lana Del Rey"	{"The Weeknd": 1, "Taylor Swift": 2}
+"Latto"	{"Jung Kook": 1}
+"League of Legends"	{"Imagine Dragons": 2, "JID": 1, "Arcane": 2}
+"Lenny Tav\ufffd\ufffdrez"	{"Justin Quiles": 2, "BL": 1, "Arcangel": 1, "De La Ghetto": 1, "Sech": 1, "Dalex": 1, "Dimelo Flow": 1, "Rich Music": 1}
+"LiL CaKe"	{"Migrantes": 1, "Nico Valdi": 1}
+"Lil Baby"	{"Gunna": 1, "Nicki Minaj": 1, "Drake": 1, "DJ Khaled": 1}
+"Lil Durk"	{"J. Cole": 1, "Morgan Wallen": 1, "Kanye West": 1, "Cardi B": 1}
+"Lil Nas X"	{"Jack Harlow": 1}
+"Lil Uzi Vert"	{"Future": 1, "Metro Boomin": 1, "sped up nightcore": 1, "ARIZONATEARS": 1}
+"Lil Wayne"	{"Swae Lee": 1, "Offset": 1, "Metro Boomin": 1, "The Weeknd": 1}
+"Lisa"	{"TAEYANG": 1}
+"Lit Killah"	{"Big One": 1, "Duki": 1, "Maria Becerra": 2, "FMK": 1, "Rusherking": 1, "Emilia": 1, "Tiago pzk": 2, "NICKI NICOLE": 1}
+"Lost Frequencies"	{"Calum Scott": 1}
+"Love Funk"	{"MC Ryan SP": 1, "Mc Paiva ZS": 1}
+"Lu\ufffd\ufffdsa Sonza"	{"MC Frog": 1, "Dj Gabriel do Borel": 1, "Davi K": 1}
+"Lucenzo"	{"Don Omar": 1}
+"Luciano"	{"Aitch": 1, "B\ufffd": 1}
+"Ludwig Goransson"	{"Foudeqush": 1}
+"Luis R Conriquez"	{"Peso Pluma": 1, "La Adictiva": 1}
+"Luude"	{"Colin Hay": 1}
+"Lyanno"	{"Brray": 1, "Rauw Alejandro": 1}
+"M"	{"Dj LK da Esc\ufffd\ufffdcia": 1, "Tchakabum": 1, "mc jhenny": 1}
+"MC Caverinha"	{"KayBlack": 1}
+"MC Frog"	{"Lu\ufffd\ufffdsa Sonza": 1, "Dj Gabriel do Borel": 1, "Davi K": 1}
+"MC Kevin o Chris"	{"dennis": 1}
+"MC MENOR HR"	{"DJ Escobar": 1, "MC MENOR SG": 1}
+"MC MENOR SG"	{"DJ Escobar": 1, "MC MENOR HR": 1}
+"MC Ryan SP"	{"Love Funk": 1, "Mc Paiva ZS": 1}
+"MC Tairon"	{"Mc Vitin Da Igrejinha": 1, "DJ Win": 1}
+"MC Xenon"	{"Os Gemeos da Putaria": 1}
+"MNEK"	{"Jax Jones": 1}
+"Mabel Matiz"	{"Mert Demir": 1}
+"Macklemore"	{"Ray Dalton": 1, "Ryan Lewis": 1}
+"Madonna"	{"The Weeknd": 1, "Playboi Carti": 1}
+"Mae Muller"	{"NEIKED": 1, "Polo G": 1}
+"Mahmood"	{"Blanco": 1}
+"Maiara &"	{"Mar\ufffd\ufffdlia Mendon\ufffd\ufffda": 1}
+"Mainstreet"	{"Chefin": 1}
+"Maldy"	{"Karol G": 1}
+"Mambo Kingz"	{"DJ Luian": 1, "Anuel Aa": 1}
+"Manuel Turizo"	{"Marshmello": 1, "Sebastian Yatra": 1, "Be\u00ef\u00bf\u00bd\u00ef": 1}
+"Mar\ufffd\ufffdlia Mendon\ufffd\ufffda"	{"George Henrique &": 1, "Maiara &": 1, "Hugo & G": 1}
+"Mari Fernandez"	{"Israel & Rodolffo": 1, "Gustavo Mioto": 1}
+"Maria Becerra"	{"Big One": 1, "Duki": 1, "Lit Killah": 2, "FMK": 1, "Rusherking": 1, "Emilia": 1, "Tiago pzk": 2, "NICKI NICOLE": 1, "J Balvin": 1, "Tini": 1}
+"Maroon 5"	{"Wiz Khalifa": 1}
+"Marshmello"	{"Manuel Turizo": 1, "Jonas Brothers": 1, "Khalid": 1, "Juice WRLD": 1}
+"Matu\u00ef\u00bf"	{"Rich The Kid": 1}
+"Matu\ufffd\ufffd"	{"Wiu": 1, "": 1}
+"Mauro Castillo"	{"Adassa": 1, "Stephanie Beatriz": 1, "Encanto - Cast": 1, "Rhenzy Feliz": 1, "Diane Guerrero": 1, "Carolina Gaitan": 1}
+"Mc Livinho"	{"DJ Matt D": 1}
+"Mc Paiva ZS"	{"MC Ryan SP": 1, "Love Funk": 1}
+"Mc Pedrinho"	{"DJ 900": 1, "Pedro Sampaio": 1}
+"Mc Vitin Da Igrejinha"	{"MC Tairon": 1, "DJ Win": 1}
+"Megan Thee Stallion"	{"Dua Lipa": 1}
+"Melody"	{"Ana Castela": 1, "Dj Chris No Beat": 1}
+"Mert Demir"	{"Mabel Matiz": 1}
+"Metro Boomin"	{"The Weeknd": 1, "21 Savage": 2, "Future": 2, "Don Toliver": 2, "Swae Lee": 1, "A Boogie Wit da Hoodie": 1, "NAV": 1, "Travis Scott": 3, "Young Thug": 1, "A$AP Rocky": 1, "Roisee": 1, "Lil Wayne": 1, "Offset": 1, "Coi Leray": 1, "Lil Uzi Vert": 1, "Chris Brown": 1, "James Blake": 1, "WizKid": 1, "Toian": 1, "Beam": 1, "John Legend": 1}
+""	{"Matu\ufffd\ufffd": 1, "Wiu": 1}
+"070 Shake"	{"RAYE": 2}
+"21 Savage"	{"The Weeknd": 1, "Metro Boomin": 2, "Drake": 4, "Travis Scott": 2, "Project Pat": 1, "Gunna": 1, "Pharrell Williams": 1, "Tyler": 1, "The Creator": 1}
+"24kgoldn"	{"Iann Dior": 1}
+"2Pac"	{"Dr. Dre": 1, "Roger": 1}
+"347aidan"	{"Sleepy hallow": 1}
+"4*TOWN (From Disney and Pixar\ufffd\ufffd\ufffds Turning Red)"	{"Jordan Fisher": 1, "Josh Levi": 1, "Finneas O'Connell": 1, "Topher Ngo": 1, "Grayson Vill": 1}
+"A Boogie Wit da Hoodie"	{"Swae Lee": 1, "Metro Boomin": 1, "NAV": 1}
+"A$AP Rocky"	{"Metro Boomin": 1, "Roisee": 1}
+"ACRAZE"	{"Cherish": 1}
+"AP Dhillon"	{"Intense": 1, "Gurinder Gill": 1}
+"ARIZONATEARS"	{"sped up nightcore": 1, "Lil Uzi Vert": 1}
+"AX'EL"	{"Ckay": 1, "Dj Yo!": 1}
+"Abhijay Sharma"	{"Riar Saab": 1}
+"Abhir Hathi"	{"Quevedo": 1, "La Pantera": 1, "Juseph": 1, "Cruz Cafun\ufffd\ufffd": 1, "B\ufffd\ufffdjo": 1}
+"Adassa"	{"Mauro Castillo": 1, "Stephanie Beatriz": 1, "Encanto - Cast": 1, "Rhenzy Feliz": 1, "Diane Guerrero": 1, "Carolina Gaitan": 1}
+"AgroPlay"	{"Ana Castela": 1}
+"Agust D"	{"IU": 1}
+"Aitana"	{"zzoilo": 1}
+"Aitch"	{"Luciano": 1, "B\ufffd": 1}
+"Ak4:20"	{"Cris Mj": 1, "Pailita": 1}
+"Alejo"	{"Feid": 1, "Robi": 1}
+"Alesso"	{"Katy Perry": 1}
+"Ali Sethi"	{"Shae Gill": 1}
+"Alicia Keys"	{"Kanye West": 1, "Fivio Foreign": 1}
+"Altamash Faridi"	{"Sachin-Jigar": 1, "Shadab Faridi": 1, "Amitabh Bhattacharya": 1, "Varun Jain": 1}
+"Alvaro Diaz"	{"Rauw Alejandro": 1}
+"Amaarae"	{"Kali Uchis": 1, "Moliy": 1}
+"Amanda Reifer"	{"Kendrick Lamar": 1, "Blxst": 1}
+"Amitabh Bhattacharya"	{"Sachin-Jigar": 1, "Shadab Faridi": 1, "Altamash Faridi": 1, "Varun Jain": 1, "Pritam": 1, "Arijit Singh": 1}
+"Amitabha Bhattacharya"	{"Arijit Singh": 1, "Sachin-Jigar": 1}
+"Ana Castela"	{"AgroPlay": 1, "Israel & Rodolffo": 1, "Melody": 1, "Dj Chris No Beat": 1}
+"Anderson .Paak"	{"Bruno Mars": 1, "Silk Sonic": 1}
+"Angela Aguilar"	{"Yuridia": 1}
+"Anitta"	{"Tini": 1, "Becky G": 1}
+"Anne-Marie"	{"David Guetta": 1, "Coi Leray": 1}
+"AnnenMayKantereit"	{"Giant Rooks": 1}
+"Anuel Aa"	{"Mambo Kingz": 1, "DJ Luian": 1, "Jhay Cortez": 1, "Myke Towers": 1, "Nengo Flow": 1, "Chris Jedi": 1, "Chencho Corleone": 1}
+"Aqua"	{"Nicki Minaj": 1, "Ice Spice": 1}
+"Arcane"	{"Imagine Dragons": 2, "League of Legends": 2, "JID": 1}
+"Arcangel"	{"Bad Bunny": 1, "Bizarrap": 1, "De La Ghetto": 1, "Justin Quiles": 1, "Lenny Tav\ufffd\ufffdrez": 1, "Sech": 1, "Dalex": 1, "Dimelo Flow": 1, "Rich Music": 1}
+"Ariana Grande"	{"The Weeknd": 2}
+"Arijit Singh"	{"Sachin-Jigar": 2, "Amitabha Bhattacharya": 1, "Vishal Dadlani": 1, "Sukriti Kakar": 1, "Vishal-Shekhar": 1, "Shekhar Ravjiani": 1, "Kumaar": 1, "Pritam": 1, "Amitabh Bhattacharya": 1}
+"Ava"	{"Ti\ufffd\ufffdsto": 1}
+"Aventura"	{"Bad Bunny": 1}
+"Ayparia"	{"unxbected": 1}
+"B. Swanson Quartet"	{"Frank Sinatra": 1}
+"BL"	{"Justin Quiles": 1, "Lenny Tav\ufffd\ufffdrez": 1}
+"BLESSD"	{"Peso Pluma": 1}
+"BTS"	{"Charlie Puth": 1, "Jung Kook": 2, "Coldplay": 1, "Halsey": 1, "FIFA Sound": 1, "Snoop Dogg": 1, "Benny Blanco": 1}
+"BYOR"	{"Imanbek": 1}
+"B\ufffd"	{"Luciano": 1, "Aitch": 1}
+"B\ufffd\ufffdjo"	{"Quevedo": 1, "La Pantera": 1, "Juseph": 1, "Cruz Cafun\ufffd\ufffd": 1, "Abhir Hathi": 1}
+"Baby Keem"	{"Kendrick Lamar": 2, "Sam Dew": 1}
+"Baby Rasta"	{"Rauw Alejandro": 1}
+"Bad B"	{"Bomba Est\ufffd\ufffdreo": 1}
+"Bad Bunny"	{"Grupo Frontera": 1, "Tainy": 3, "Chencho Corleone": 1, "Eladio Carrion": 1, "Arcangel": 1, "Nengo Flow": 1, "Gorillaz": 1, "J Balvin": 2, "Jhay Cortez": 1, "Rauw Alejandro": 1, "Julieta Venegas": 1, "Aventura": 1, "Sech": 1, "Mora": 1, "Nio Garcia": 1, "Daddy Yankee": 2, "Tony Dize": 1, "Buscabulla": 1, "The Mar\u00ef\u00bf\u00bd\u00ef": 1}
+"Be\u00ef\u00bf\u00bd\u00ef"	{"Sebastian Yatra": 1, "Manuel Turizo": 1}
+"Beam"	{"WizKid": 1, "Toian": 1, "Metro Boomin": 1, "Don Toliver": 1}
+"Bebe Rexha"	{"David Guetta": 1}
+"Becky G"	{"Peso Pluma": 1, "Karol G": 1, "Anitta": 1, "Tini": 1}
